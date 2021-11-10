@@ -5,7 +5,7 @@
   
   O projeto foi baseado nesse layout do <a href="https://www.figma.com/community/file/1009807319507822993">Figma</a>
     
-  Link para visualizar o <a href="https://gama595.github.io/origin-six/">projeto</a>
+  Link para visualizar o <a href="https://gama595.github.io/origin-six/">Projeto</a>
 </p>
 
 
